@@ -1,0 +1,4 @@
+#Sat Jan 08 11:44:28 EET 2022
+base.0=D\:\\aproject\\Initium\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
